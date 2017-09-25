@@ -25,7 +25,6 @@
     }.bind(this));
   };
 
-
   App.Truck = Truck;
   global.App = App;
 })(global);
